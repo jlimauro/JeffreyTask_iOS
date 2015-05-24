@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="TaskyiOS/JeffreyTask.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskyiOS/Screens/HomeScreen.cs">
+    <Files>
+      <File FileName="Tasky.Core/Task.cs" Line="1" Column="1" />
+      <File FileName="Tasky.Core/TaskManager.cs" Line="1" Column="1" />
+      <File FileName="Tasky.Core/TaskRepositoryADO.cs" Line="1" Column="1" />
+      <File FileName="TaskyiOS/Screens/HomeScreen.cs" Line="52" Column="11" />
+      <File FileName="TaskyiOS/ApplicationLayer/TaskDialog.cs" Line="17" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,32 @@
+# Version: 8.10.0.3 (3c4e832)
+# [first argument, ignore] # /Users/Jeffrey/Source Code/Tasky/JeffreyTask_iOS/TaskyiOS/bin/iPhoneSimulator/Release/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.10.0.303/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	"/Users/Jeffrey/Source Code/Tasky/JeffreyTask_iOS/TaskyiOS/obj/iPhoneSimulator/Release/mtouch-cache" \
+	--executable \
+	Tasky \
+	--nomanifest \
+	--nosign \
+	-sim \
+	"/Users/Jeffrey/Source Code/Tasky/JeffreyTask_iOS/TaskyiOS/bin/iPhoneSimulator/Release/Tasky.app" \
+	-r \
+	"/Users/Jeffrey/Source Code/Tasky/JeffreyTask_iOS/Tasky.Core/bin/Release/Tasky.Core.dll" \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/MonoTouch.Dialog-1.dll \
+	-nolink \
+	-sdk \
+	8.3 \
+	-targetver \
+	8.0 \
+	--abi=i386 \
+	"/Users/Jeffrey/Source Code/Tasky/JeffreyTask_iOS/TaskyiOS/bin/iPhoneSimulator/Release/Tasky.exe" \
